@@ -5,4 +5,3 @@
 def roll
   rand(0..6)
 end
-
